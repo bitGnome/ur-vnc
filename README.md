@@ -28,7 +28,7 @@ The following process outlines the steps needed to configure and install the VNC
     * `/etc/init.d/x11vnc start`
 
 ## Install VNC client
-In order to connect to the VNC server you will need to use a VNC client on the computer that will be viewing the polyscope console. The information here is for installing the `tigervnc-viewer` on ubuntu. Other installs can be found on the (TigerVnc)[https://tigervnc.org/] page.
+In order to connect to the VNC server you will need to use a VNC client on the computer that will be viewing the polyscope console. The information here is for installing the `tigervnc-viewer` on ubuntu. Other installs can be found on the [TigerVnc](https://tigervnc.org/) page.
 
 1. On the system that will be connecting to the VNC server install the packages.
     * sudo apt install tigervnc-viewer
